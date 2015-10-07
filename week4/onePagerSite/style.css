@@ -23,6 +23,8 @@ img {
 }
 .thirds-container > div {
     float: left;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 .third {
     width: 250px;
