@@ -1,0 +1,44 @@
+body {
+    background-color: #ffffff;
+    width: 800px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+h2, h3 {
+    text-align: center;
+}
+p {
+
+}
+img {
+    width: auto;
+    height: 220px;
+    display: block;
+    margin: 0 auto;
+}
+.thirds-container {
+    margin: 0 auto;
+}
+.thirds-container > div {
+    float: left;
+}
+.third {
+    width: 250px;
+    margin: 0 auto;
+}
+.third p{
+    text-align: center;
+}
+img.comp {
+    max-width: 250px;
+    max-height: 100px;
+    vertical-align: middle;
+    top: 50%;
+}
+
+.comps {
+    height: 100px;
+    text-align: center;
+}
