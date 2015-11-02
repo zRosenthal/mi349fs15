@@ -5,6 +5,10 @@
     padding: 10px;
 }
 
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
 @media (min-width: 400px) {
 
     .col {
@@ -15,13 +19,13 @@
 @media (min-width: 800px) {
 
     .col {
-        width: 33%;
+        width: 40%;
     }
 }
 @media (min-width: 1200px) {
 
     .col {
-        width: 25%;
+        width: 30%;
     }
 }
 
