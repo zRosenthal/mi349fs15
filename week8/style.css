@@ -1,0 +1,27 @@
+.col{
+    margin: 0 auto;
+    float: left;
+    display: inline;
+    padding: 10px;
+}
+
+@media (min-width: 400px) {
+
+    .col {
+        width: 100%;
+    }
+}
+
+@media (min-width: 800px) {
+
+    .col {
+        width: 33%;
+    }
+}
+@media (min-width: 1200px) {
+
+    .col {
+        width: 25%;
+    }
+}
+
