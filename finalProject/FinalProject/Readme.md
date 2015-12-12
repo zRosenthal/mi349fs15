@@ -1,6 +1,6 @@
 JS and CSS files can be found in /assets
 
-/pages and /vendor all directories for making the templating engine work
+/pages and /vendor are directories for making the templating engine work
 
 The blade temlating engine is used for views and generating the html
 
