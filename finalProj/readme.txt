@@ -14,3 +14,4 @@ so I narrowed it down to a few things.
 
 I decided to design my website differently then my comp because my comp did not 
 look very good when scaled to full screen and there wasn’t anything I could really do with breakpoints.
+
