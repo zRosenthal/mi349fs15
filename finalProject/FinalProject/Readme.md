@@ -1,5 +1,7 @@
 url: http://104.131.225.36
 
+responsive breakpoints work best on featured recipe page
+
 JS and CSS files can be found in /assets
 
 /pages and /vendor are directories for making the templating engine work

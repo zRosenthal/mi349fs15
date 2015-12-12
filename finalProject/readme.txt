@@ -5,6 +5,9 @@ Can be viewed at the following address
 
 http://104.131.225.36
 
+Responsive breakpoints work best on featured recipe page:
+http://104.131.225.36/recipe
+
 Notes:
 
 My final website has some differences from my final comp and final card sort.
